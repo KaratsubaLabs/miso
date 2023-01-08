@@ -1,2 +1,3 @@
 *.~undo-tree~
 dist-newstyle
+.env
